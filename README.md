@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on a Discord bot for scheduling reminders and notifications.
+- 🌱 I’m currently learning how to use the discord.js library, Python and Shell Scripting.
+- 😄 Pronouns: he/him
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangjm&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangjm&layout=compact)]
 ![Profile views](https://komarev.com/ghpvc/?username=tangjm&style=for-the-badge)
